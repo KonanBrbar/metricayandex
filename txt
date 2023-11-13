@@ -1,4 +1,4 @@
-<!-- Яшка -->
+<!-- Яшка --> код для сайта от ботов
 <script type="text/javascript">
 var yaParams = {};
 var xhr = new XMLHttpRequest();
