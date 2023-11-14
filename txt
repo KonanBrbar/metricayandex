@@ -1,4 +1,4 @@
-<!-- Яшка --> код для сайта от ботов
+<!-- Яшка --> код для сайта от ботов, для вставки нужно добавить свой номер счетчика. 
 <script type="text/javascript">
 var yaParams = {};
 var xhr = new XMLHttpRequest();
